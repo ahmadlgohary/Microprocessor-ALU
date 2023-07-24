@@ -1,0 +1,165 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Ahmad El-Gohary\Desktop\Coe 328 lab 6\simulation\qsim
+vCiruitProblem1
+Z1 !s100 PN`Be;Z`o?72UimUKz]PP0
+Z2 I]BUI>G4_F3[n>X1;CeYP90
+Z3 V1Z><;kXfI5FNdRzfIQL;i0
+Z4 dC:\Users\Ahmad El-Gohary\Desktop\Coe 328 lab 6\simulation\qsim
+Z5 w1638547762
+Z6 8Lab6.vo
+Z7 FLab6.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|Lab6.vo|
+Z10 o-work work -O0
+Z11 n@ciruit@problem1
+Z12 !s108 1638547763.475000
+Z13 !s107 Lab6.vo|
+!i10b 1
+!s85 0
+!s101 -O0
+vCiruitProblem1_vlg_check_tst
+Z14 !s100 IiI`b6G7H6i]e<U9ZYRV73
+Z15 IUiMF2lB:>J6[GPAHP86og2
+Z16 V1dYHiId?U^eeNz^VXBSH[1
+R4
+Z17 w1638547761
+Z18 8Lab6.vt
+Z19 FLab6.vt
+L0 69
+R8
+r1
+31
+Z20 !s108 1638547763.603000
+Z21 !s107 Lab6.vt|
+Z22 !s90 -work|work|Lab6.vt|
+R10
+Z23 n@ciruit@problem1_vlg_check_tst
+!i10b 1
+!s85 0
+!s101 -O0
+vCiruitProblem1_vlg_sample_tst
+Z24 !s100 JT8n3FCn[hceMeKjCUQ9A1
+Z25 IeSKVY4dA:iU7;JYb4jbFb0
+Z26 V0DZNg3Rbjbm13bB>[9Z@V1
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+31
+R20
+R21
+R22
+R10
+Z27 n@ciruit@problem1_vlg_sample_tst
+!i10b 1
+!s85 0
+!s101 -O0
+vCiruitProblem1_vlg_vec_tst
+Z28 !s100 P2EQNHDC0C1Z?m1@817m22
+Z29 I^dL5=1=@848DdGCbiKlB]2
+Z30 V]4]fBhLlaVZhJNQFO1c5Y3
+R4
+R17
+R18
+R19
+Z31 L0 673
+R8
+r1
+31
+R20
+R21
+R22
+R10
+Z32 n@ciruit@problem1_vlg_vec_tst
+!i10b 1
+!s85 0
+!s101 -O0
+vCiruitProblem3
+Z33 !s100 B95FGe7N;>n2DJbPR?f@?2
+Z34 IMneR8QGcYn_:9`4QQISJ60
+Z35 V?mWI83N_d2U7CGnZh:h>A3
+R4
+Z36 w1638588906
+R6
+R7
+L0 31
+R8
+r1
+31
+R9
+R10
+Z37 n@ciruit@problem3
+!i10b 1
+!s85 0
+Z38 !s108 1638588907.139000
+R13
+!s101 -O0
+vCiruitProblem3_vlg_check_tst
+!i10b 1
+Z39 !s100 dijA7J?amYKZ[O0GQdbSR3
+Z40 IoVJ]22nFJ4C6d11?Fi3VC1
+Z41 V69]`87Nh6V2h[^Kjf8zBF2
+R4
+R36
+R18
+R19
+L0 69
+R8
+r1
+!s85 0
+31
+Z42 !s108 1638588907.186000
+Z43 !s107 Lab6.vt|
+R22
+!s101 -O0
+R10
+Z44 n@ciruit@problem3_vlg_check_tst
+vCiruitProblem3_vlg_sample_tst
+!i10b 1
+Z45 !s100 Sf]j>k^]^@a2D4BX]3F:=2
+Z46 I]2lW8?obC3zkmHcMOk2KE1
+Z47 VV]<2XC9QTLH_?Ma<YLZAz1
+R4
+R36
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R42
+R43
+R22
+!s101 -O0
+R10
+Z48 n@ciruit@problem3_vlg_sample_tst
+vCiruitProblem3_vlg_vec_tst
+!i10b 1
+Z49 !s100 6iPGn>6Bi0C6@6lBJ@dGa2
+Z50 IRT9k:BZjVz<hb7QiZ@NYD3
+Z51 VeN;1PILbVQTHHkc]6YYdX1
+R4
+R36
+R18
+R19
+Z52 L0 967
+R8
+r1
+!s85 0
+31
+R42
+R43
+R22
+!s101 -O0
+R10
+Z53 n@ciruit@problem3_vlg_vec_tst
